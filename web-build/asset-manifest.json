@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0f0a34ad.js",
+    "static/js/849.d20c04f8.js": "/static/js/849.d20c04f8.js",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/Flyanywhere_darker.png": "/static/media/Flyanywhere_darker.f20871ce4d6a1935f288.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "static/media/amazon.sg.png": "/static/media/amazon.sg.7de1a656d56618c855df.png",
+    "static/media/Shopee.png": "/static/media/Shopee.01e58c7d74640ee0bacd.png",
+    "static/media/merchant_ntucfairprice.png": "/static/media/merchant_ntucfairprice.4833774a7f9d4e2fcb15.png",
+    "static/media/2.png": "/static/media/2.569c04c03585eafc23f5.png",
+    "static/media/Lazada.png": "/static/media/Lazada.1725137dcad34965840d.png",
+    "static/media/1.png": "/static/media/1.22f5f7ec2f116546608e.png",
+    "static/media/merchant_hnm.png": "/static/media/merchant_hnm.9b0f16131d62638dbab0.png",
+    "static/media/3.png": "/static/media/3.80bbbb87ba7bb74db753.png",
+    "static/media/fave.png": "/static/media/fave.f7cc5f78821f49b90e82.png",
+    "static/media/merchant logo.png": "/static/media/merchant logo.8f7090e7b6e2c6f8b85c.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.0f0a34ad.js.map": "/static/js/main.0f0a34ad.js.map",
+    "849.d20c04f8.js.map": "/static/js/849.d20c04f8.js.map"
+  },
+  "entrypoints": [
+    "static/js/849.d20c04f8.js",
+    "static/js/main.0f0a34ad.js"
+  ]
+}
