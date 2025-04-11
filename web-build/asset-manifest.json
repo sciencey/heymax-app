@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.0f0a34ad.js",
-    "static/js/849.d20c04f8.js": "/static/js/849.d20c04f8.js",
+    "main.js": "/static/js/main.b3799f0e.js",
+    "static/js/781.936df365.js": "/static/js/781.936df365.js",
     "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/Flyanywhere_darker.png": "/static/media/Flyanywhere_darker.f20871ce4d6a1935f288.png",
     "favicon.ico": "/favicon.ico",
@@ -20,11 +20,11 @@
     "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "main.0f0a34ad.js.map": "/static/js/main.0f0a34ad.js.map",
-    "849.d20c04f8.js.map": "/static/js/849.d20c04f8.js.map"
+    "main.b3799f0e.js.map": "/static/js/main.b3799f0e.js.map",
+    "781.936df365.js.map": "/static/js/781.936df365.js.map"
   },
   "entrypoints": [
-    "static/js/849.d20c04f8.js",
-    "static/js/main.0f0a34ad.js"
+    "static/js/781.936df365.js",
+    "static/js/main.b3799f0e.js"
   ]
 }
